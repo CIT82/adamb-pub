@@ -1,17 +1,22 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Slabo+13px&display=swap');
 body {
   background-image: url(bg-image.jpg);
-  font-family: sans-serif;
+  font-family: "Slabo 13px", serif;
   padding: 20px;
 }
 
+
+
+
 h1 {
+font-family: "Impact", serif;
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
 h2 {
+    font-family: "Arial Narrow", serif;
   font-size: 30px;
 }
 
