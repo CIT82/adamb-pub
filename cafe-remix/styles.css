@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Slabo+13px&display=swap');
 body {
   background-image: url(bg-image.jpg);
+  box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.547);
   font-family: "Slabo 13px", serif;
   padding: 20px;
 }
@@ -9,14 +10,14 @@ body {
 
 
 h1 {
-font-family: "Impact", serif;
+  font-family: "Impact", serif;
   font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
 h2 {
-    font-family: "Arial Narrow", serif;
+  font-family: "Arial Narrow", serif;
   font-size: 30px;
 }
 
